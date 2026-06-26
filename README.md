@@ -276,6 +276,6 @@ This approach improves reliability, consistency, and scalability.
 
 ## 🔌 API Response
 
-<img src="./screenshots/api.png"/>
+<img src="./api.png"/>
 
 ---
