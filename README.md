@@ -270,7 +270,7 @@ This approach improves reliability, consistency, and scalability.
 
 ## 📊 Metrics
 
-<img src="./screenshots/metrics.png"/>
+<img src="./metrics.png"/>
 
 ---
 
