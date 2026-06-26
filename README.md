@@ -252,19 +252,19 @@ This approach improves reliability, consistency, and scalability.
 
 ## 🏠 Home Page
 
-<img src="./screenshots/home.png"/>
+<img src="./home.png"/>
 
 ---
 
 ## ✍ Prompt Input
 
-<img src="./screenshots/prompt.png"/>
+<img src="./prompt.png"/>
 
 ---
 
 ## ⚙ Generated Runtime
 
-<img src="./screenshots/runtime.png"/>
+<img src="./metrice.png"/>
 
 ---
 
